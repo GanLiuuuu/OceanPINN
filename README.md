@@ -1,9 +1,14 @@
 # OceanPINN
 ### [Project Page]() | [Video]() | [Paper]() | [Data]()
-
-
-**Preview**
-<img src='imgs/preview.jpg'/>
+[OceanPINN: a physics-informed neural network for downscaling 3D fliud flow]
+ [Peng Zhan]()\*<sup>1</sup>,
+ [Gan Liu](https://github.com/GanLiuuuu)\*<sup>1</sup>,
+ [Jianuo Zhu]()\*<sup>1</sup> <br>
+ <sup>1</sup>SUSTech, <sup>2</sup>KAUST
+  \*denotes equal contribution  
+in ... (Conference)<br>
+**Preview**<br>
+<img src='imgs/preview.png'/>
 
 ## Quickstart
 
