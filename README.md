@@ -6,9 +6,9 @@
  [Jianuo Zhu]()\*<sup>1</sup> <br>
  <sup>1</sup>SUSTech, <sup>2</sup>KAUST
   \*denotes equal contribution  
-in ... (Conference)<br>
-**Preview**<br>
-<img src='imgs/preview.png'/>
+<br><br>
+<img src='imgs/pipeline.png'/>
+
 
 ## Quickstart
 
@@ -28,8 +28,8 @@ Python 3 dependencies:
 * Tensorflow 1.15
 * matplotlib
 * numpy
-* imageio
-*  configargparse
+* ...
+* ...
 * ...
 
 
@@ -41,6 +41,7 @@ conda env create -f environment.yml
 
 
 ## What is a OceanPINN?
-
+Using Physics-Informed Neural Networks (PINN) technology, efficient downscaling processing of the RB flow field is achieved, extending from a two-dimensional scenario to a more complex three-dimensional situation. By simulating under physical constraints, high-resolution inversion of the density and flow velocity of three-dimensional fluids is performed. This method is expected to significantly improve the analytical accuracy of fluid dynamics characteristics, thereby promoting a deeper understanding of the underlying mechanisms of fluid dynamics.
+<img src='imgs/preview.png'/>
 
 
